@@ -1,4 +1,4 @@
-# for one 
+# for one  
 def decodeBlog(doc) ->dict :
     return{
         "_id":str(doc["_id"]),
